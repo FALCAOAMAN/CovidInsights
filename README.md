@@ -5,8 +5,8 @@ Data Exploration of Covid data ( from March 2020 till Aug 2021) using SQL and Ta
 
 Since the end of 2019 everyone in this world has to suffer from the deadly virus which is COVID-19 . So, this project is all about the insights from almost every country from March 2020 till August 2021.
 
-The data which is used is downloaded from https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblpHZ1JzRTBwLWdxYTZUVEphZXIxbFlxOXA3UXxBQ3Jtc0tscFNxc0tjTFNfU2xzUlJYOWcyXzUzVEd1YmxJNTk2UlpNdDRWMnFBNTlNaFVfWXhLeS02MjFiYWhZMUhBRGU1cjBUTzlodXVoRndXZFp2NU54QUNUOHc3dE1jQVdqc3ZvT09PbXdzZURqd21LOXB5Zw&q=https%3A%2F%2Fourworldindata.org%2Fcovid-deaths and the insigths were about which country suffered the most and which country was vaccinated the most individuals.
-
+# Data
+ -https://ourworldindata.org/covid-deaths
 
 ## Software Used
 

@@ -5,8 +5,8 @@ Data Exploration of Covid data ( from March 2020 till Aug 2021) using SQL and Ta
 
 Since the end of 2019 everyone in this world has to suffer from the deadly virus which is COVID-19 . So, this project is all about the insights from almost every country from March 2020 till August 2021.
 
-# Data
- -https://ourworldindata.org/covid-deaths
+## Data
+ Data Source : [Covid Data](https://ourworldindata.org/covid-deaths)
 
 ## Software Used
 
@@ -15,5 +15,4 @@ Since the end of 2019 everyone in this world has to suffer from the deadly virus
 
 ## Visualizations
 
-   #### Tableau Online
--https://prod-apnortheast-a.online.tableau.com/#/site/amankumartableau/projects/157542?:origin=card_share_link
+Visualize the insights here :[Tableau Online](https://prod-apnortheast-a.online.tableau.com/#/site/amankumartableau/projects/157542?:origin=card_share_link)
